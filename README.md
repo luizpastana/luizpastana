@@ -16,7 +16,7 @@ Frameworks:
 Me chama na call:
 <br>
 <a href="www.linkedin.com/in/lcspastana"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href=""><img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:lcsp84@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizpastana&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
